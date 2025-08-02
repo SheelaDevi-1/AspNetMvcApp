@@ -15,36 +15,12 @@
       "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\automobile speed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\automobile speed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|solutionrelative:automobile speed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93C63B1A-FD41-41CC-BC28-FCAA12089532}|Automobile Speed\\Automobile Speed.csproj|c:\\c#\\top speed\\automobile speed\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,27 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "Automobile Speed\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T19:07:45.797Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -112,7 +81,7 @@
               "RelativeDocumentMoniker": "Automobile Speed\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Automobile Speed\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA8AAAByAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-31T18:12:22.705Z",
               "EditorCaption": ""
@@ -131,91 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Automobile Speed\\Models\\Brand.cs",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Models\\Brand.cs",
-              "RelativeToolTip": "Automobile Speed\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T17:54:44.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Edit.cshtml",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Edit.cshtml",
-              "RelativeToolTip": "Automobile Speed\\Views\\Brand\\Edit.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T19:07:45.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "Automobile Speed\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "Automobile Speed\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAwE8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T22:12:29.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Automobile Speed\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Automobile Speed\\Controllers\\BrandController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T19:35:04.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Delete.cshtml",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Delete.cshtml",
-              "RelativeToolTip": "Automobile Speed\\Views\\Brand\\Delete.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T21:48:02.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Index.cshtml",
-              "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Index.cshtml",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Index.cshtml",
-              "RelativeToolTip": "Automobile Speed\\Views\\Brand\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T19:37:00.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Automobile Speed\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\C#\\Top Speed\\Automobile Speed\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Automobile Speed\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T19:47:43.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Create.cshtml",
               "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Create.cshtml",
@@ -227,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Views\\Brand\\Details.cshtml",
               "RelativeDocumentMoniker": "Automobile Speed\\Views\\Brand\\Details.cshtml",
@@ -239,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Automobile Speed.csproj",
               "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Automobile Speed.csproj",
               "RelativeDocumentMoniker": "Automobile Speed\\Automobile Speed.csproj",
@@ -251,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\appsettings.json",
               "RelativeDocumentMoniker": "Automobile Speed\\appsettings.json",
@@ -263,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\C#\\Top Speed\\Automobile Speed\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Automobile Speed\\Data\\ApplicationDbContext.cs",

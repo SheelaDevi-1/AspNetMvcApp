@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Automobile Speed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a672ddea445f569e84d7c35364dabda52d60938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0206626e774d13dbc2683733c778d8225e8d807f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Automobile Speed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Automobile Speed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
