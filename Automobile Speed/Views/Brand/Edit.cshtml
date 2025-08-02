@@ -1,0 +1,44 @@
+﻿@model Brand
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-uppercase text-center">Edit Brand</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 border border-1">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="EstablishedYear" class="form-label"></label>
+                    <input asp-for="EstablishedYear" class="form-control" />
+                    <span asp-validation-for="EstablishedYear" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="BrandLogo" class="form-label"></label>
+                    <input type="file" name="files" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <a asp-controller="Brand" asp-action="Index" class="btn btn-danger">Back</a>
+                    <button type="submit" class="btn btn-warning">Update</button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-4">
+            @if(Model.BrandLogo !=null)
+            {
+                <img src="@Model.BrandLogo" width="100%" />
+	     	}
+			
+	
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
