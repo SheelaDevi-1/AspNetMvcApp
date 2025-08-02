@@ -61,6 +61,26 @@
       "PackagePath": "staticwebassets\\image\\brand\\ebe0f98e-069d-47b9-997d-f1d8e993de93.png"
     },
     {
+      "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\images\\Audi.jpg",
+      "PackagePath": "staticwebassets\\images\\Audi.jpg"
+    },
+    {
+      "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\images\\Tesla.jpg",
+      "PackagePath": "staticwebassets\\images\\Tesla.jpg"
+    },
+    {
+      "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\images\\bmw.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw.jpg"
+    },
+    {
+      "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\images\\ferrari.jpg",
+      "PackagePath": "staticwebassets\\images\\ferrari.jpg"
+    },
+    {
+      "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\images\\porche.jpg",
+      "PackagePath": "staticwebassets\\images\\porche.jpg"
+    },
+    {
       "Id": "C:\\C#\\Top Speed\\Automobile Speed\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
